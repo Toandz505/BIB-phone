@@ -14,7 +14,7 @@ namespace WebsiteBanHang.Controllers
     public class HomeController : Controller
     {
         QuanLyBanHangEntities db = new QuanLyBanHangEntities();
-
+        
         // GET: Home/Index
         public ActionResult Index()
         {
@@ -76,7 +76,7 @@ namespace WebsiteBanHang.Controllers
         }
 
         //Load câu hỏi để đưa vào dropdownlist
-        public List<string> LoadCauHoi()
+        public List<string> LoadCauHoi()    
         {
             List<string> lstCauHoi = new List<string>();    //tạo list câu hỏi chứa câu hỏi
             lstCauHoi.Add("Họ tên người cha bạn là gì?");
@@ -134,7 +134,7 @@ namespace WebsiteBanHang.Controllers
             return Content("Tài khoản hoặc mật khẩu không chính xác.");
         }
 
-
+        
 
 
         public ActionResult DangXuat()
