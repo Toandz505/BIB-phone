@@ -139,6 +139,7 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\QuanLySanPhamController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -2440,10 +2441,15 @@
     <Content Include="Scripts\popper-utils.js.map" />
     <Content Include="Views\Layout\BaoLoi.cshtml" />
     <Content Include="Views\Layout\_LayoutCommon.cshtml" />
+    <Content Include="Views\QuanLySanPham\ChinhSua.cshtml" />
+    <Content Include="Views\QuanLySanPham\Index.cshtml" />
+    <Content Include="Views\QuanLySanPham\KhongTheXoa.cshtml" />
+    <Content Include="Views\QuanLySanPham\TaoMoi.cshtml" />
+    <Content Include="Views\QuanLySanPham\UploadHinh.cshtml" />
+    <Content Include="Views\QuanLySanPham\Xoa.cshtml" />
+    <Content Include="Views\QuanLySanPham\_IndexPartial.cshtml" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
