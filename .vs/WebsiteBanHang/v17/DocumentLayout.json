@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\New folder\\BIB-phone\\",
+  "WorkspaceRootPath": "E:\\moi\\BIB-phone\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2406F609-BEDD-49F9-9BA0-04DD459D5FA7}|WebsiteBanHang\\WebsiteBanHang.csproj|c:\\users\\asus\\onedrive\\desktop\\new folder\\bib-phone\\websitebanhang\\content\\css\\home_style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{2406F609-BEDD-49F9-9BA0-04DD459D5FA7}|WebsiteBanHang\\WebsiteBanHang.csproj|e:\\moi\\bib-phone\\websitebanhang\\content\\css\\home_style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{2406F609-BEDD-49F9-9BA0-04DD459D5FA7}|WebsiteBanHang\\WebsiteBanHang.csproj|solutionrelative:websitebanhang\\content\\css\\home_style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2406F609-BEDD-49F9-9BA0-04DD459D5FA7}|WebsiteBanHang\\WebsiteBanHang.csproj|C:\\Users\\ASUS\\OneDrive\\Desktop\\New folder\\BIB-phone\\websitebanhang\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2406F609-BEDD-49F9-9BA0-04DD459D5FA7}|WebsiteBanHang\\WebsiteBanHang.csproj|E:\\moi\\BIB-phone\\websitebanhang\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2406F609-BEDD-49F9-9BA0-04DD459D5FA7}|WebsiteBanHang\\WebsiteBanHang.csproj|solutionrelative:websitebanhang\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2406F609-BEDD-49F9-9BA0-04DD459D5FA7}|WebsiteBanHang\\WebsiteBanHang.csproj|C:\\Users\\ASUS\\OneDrive\\Desktop\\New folder\\BIB-phone\\websitebanhang\\views\\home\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2406F609-BEDD-49F9-9BA0-04DD459D5FA7}|WebsiteBanHang\\WebsiteBanHang.csproj|E:\\moi\\BIB-phone\\websitebanhang\\views\\home\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2406F609-BEDD-49F9-9BA0-04DD459D5FA7}|WebsiteBanHang\\WebsiteBanHang.csproj|solutionrelative:websitebanhang\\views\\home\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2406F609-BEDD-49F9-9BA0-04DD459D5FA7}|WebsiteBanHang\\WebsiteBanHang.csproj|C:\\Users\\ASUS\\OneDrive\\Desktop\\New folder\\BIB-phone\\websitebanhang\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2406F609-BEDD-49F9-9BA0-04DD459D5FA7}|WebsiteBanHang\\WebsiteBanHang.csproj|E:\\moi\\BIB-phone\\websitebanhang\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2406F609-BEDD-49F9-9BA0-04DD459D5FA7}|WebsiteBanHang\\WebsiteBanHang.csproj|solutionrelative:websitebanhang\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2406F609-BEDD-49F9-9BA0-04DD459D5FA7}|WebsiteBanHang\\WebsiteBanHang.csproj|C:\\Users\\ASUS\\OneDrive\\Desktop\\New folder\\BIB-phone\\websitebanhang\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{2406F609-BEDD-49F9-9BA0-04DD459D5FA7}|WebsiteBanHang\\WebsiteBanHang.csproj|E:\\moi\\BIB-phone\\websitebanhang\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{2406F609-BEDD-49F9-9BA0-04DD459D5FA7}|WebsiteBanHang\\WebsiteBanHang.csproj|solutionrelative:websitebanhang\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Home_style.css",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\New folder\\BIB-phone\\WebsiteBanHang\\Content\\css\\Home_style.css",
+              "DocumentMoniker": "E:\\moi\\BIB-phone\\WebsiteBanHang\\Content\\css\\Home_style.css",
               "RelativeDocumentMoniker": "WebsiteBanHang\\Content\\css\\Home_style.css",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\New folder\\BIB-phone\\WebsiteBanHang\\Content\\css\\Home_style.css",
+              "ToolTip": "E:\\moi\\BIB-phone\\WebsiteBanHang\\Content\\css\\Home_style.css",
               "RelativeToolTip": "WebsiteBanHang\\Content\\css\\Home_style.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-10-19T03:27:37.59Z",
               "EditorCaption": ""
@@ -49,9 +49,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\New folder\\BIB-phone\\WebsiteBanHang\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "E:\\moi\\BIB-phone\\WebsiteBanHang\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WebsiteBanHang\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\New folder\\BIB-phone\\WebsiteBanHang\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\moi\\BIB-phone\\WebsiteBanHang\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "WebsiteBanHang\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -61,9 +61,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "DangKy.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\New folder\\BIB-phone\\WebsiteBanHang\\Views\\Home\\DangKy.cshtml",
+              "DocumentMoniker": "E:\\moi\\BIB-phone\\WebsiteBanHang\\Views\\Home\\DangKy.cshtml",
               "RelativeDocumentMoniker": "WebsiteBanHang\\Views\\Home\\DangKy.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\New folder\\BIB-phone\\WebsiteBanHang\\Views\\Home\\DangKy.cshtml",
+              "ToolTip": "E:\\moi\\BIB-phone\\WebsiteBanHang\\Views\\Home\\DangKy.cshtml",
               "RelativeToolTip": "WebsiteBanHang\\Views\\Home\\DangKy.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -73,9 +73,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\New folder\\BIB-phone\\WebsiteBanHang\\Properties\\AssemblyInfo.cs",
+              "DocumentMoniker": "E:\\moi\\BIB-phone\\WebsiteBanHang\\Properties\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "WebsiteBanHang\\Properties\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\New folder\\BIB-phone\\WebsiteBanHang\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "E:\\moi\\BIB-phone\\WebsiteBanHang\\Properties\\AssemblyInfo.cs",
               "RelativeToolTip": "WebsiteBanHang\\Properties\\AssemblyInfo.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAAACIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -85,9 +85,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\New folder\\BIB-phone\\WebsiteBanHang\\Web.config",
+              "DocumentMoniker": "E:\\moi\\BIB-phone\\WebsiteBanHang\\Web.config",
               "RelativeDocumentMoniker": "WebsiteBanHang\\Web.config",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\New folder\\BIB-phone\\WebsiteBanHang\\Web.config",
+              "ToolTip": "E:\\moi\\BIB-phone\\WebsiteBanHang\\Web.config",
               "RelativeToolTip": "WebsiteBanHang\\Web.config",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2024-10-14T12:58:10.61Z",
