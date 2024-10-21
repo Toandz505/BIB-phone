@@ -1,0 +1,1340 @@
+E:\CNPM\MEGATECH\bin\MEGATECH.dll.config
+E:\CNPM\MEGATECH\bin\MEGATECH.dll
+E:\CNPM\MEGATECH\bin\MEGATECH.pdb
+E:\CNPM\MEGATECH\bin\roslyn\csc.exe
+E:\CNPM\MEGATECH\bin\roslyn\csc.exe.config
+E:\CNPM\MEGATECH\bin\roslyn\csc.rsp
+E:\CNPM\MEGATECH\bin\roslyn\csi.exe
+E:\CNPM\MEGATECH\bin\roslyn\csi.exe.config
+E:\CNPM\MEGATECH\bin\roslyn\csi.rsp
+E:\CNPM\MEGATECH\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CNPM\MEGATECH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CNPM\MEGATECH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CNPM\MEGATECH\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CNPM\MEGATECH\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CNPM\MEGATECH\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CNPM\MEGATECH\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CNPM\MEGATECH\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CNPM\MEGATECH\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CNPM\MEGATECH\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+E:\CNPM\MEGATECH\bin\roslyn\Microsoft.Managed.Core.targets
+E:\CNPM\MEGATECH\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CNPM\MEGATECH\bin\roslyn\System.Buffers.dll
+E:\CNPM\MEGATECH\bin\roslyn\System.Collections.Immutable.dll
+E:\CNPM\MEGATECH\bin\roslyn\System.Memory.dll
+E:\CNPM\MEGATECH\bin\roslyn\System.Numerics.Vectors.dll
+E:\CNPM\MEGATECH\bin\roslyn\System.Reflection.Metadata.dll
+E:\CNPM\MEGATECH\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\CNPM\MEGATECH\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\CNPM\MEGATECH\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\CNPM\MEGATECH\bin\roslyn\vbc.exe
+E:\CNPM\MEGATECH\bin\roslyn\vbc.exe.config
+E:\CNPM\MEGATECH\bin\roslyn\vbc.rsp
+E:\CNPM\MEGATECH\bin\roslyn\VBCSCompiler.exe
+E:\CNPM\MEGATECH\bin\roslyn\VBCSCompiler.exe.config
+E:\CNPM\MEGATECH\bin\Antlr3.Runtime.dll
+E:\CNPM\MEGATECH\bin\Dapper.dll
+E:\CNPM\MEGATECH\bin\EntityFramework.dll
+E:\CNPM\MEGATECH\bin\EntityFramework.SqlServer.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNet.Identity.Core.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\CNPM\MEGATECH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CNPM\MEGATECH\bin\Microsoft.Owin.dll
+E:\CNPM\MEGATECH\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\CNPM\MEGATECH\bin\Microsoft.Owin.Security.Cookies.dll
+E:\CNPM\MEGATECH\bin\Microsoft.Owin.Security.dll
+E:\CNPM\MEGATECH\bin\Microsoft.Owin.Security.Facebook.dll
+E:\CNPM\MEGATECH\bin\Microsoft.Owin.Security.Google.dll
+E:\CNPM\MEGATECH\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\CNPM\MEGATECH\bin\Microsoft.Owin.Security.OAuth.dll
+E:\CNPM\MEGATECH\bin\Microsoft.Owin.Security.Twitter.dll
+E:\CNPM\MEGATECH\bin\Microsoft.Web.Infrastructure.dll
+E:\CNPM\MEGATECH\bin\Newtonsoft.Json.dll
+E:\CNPM\MEGATECH\bin\Owin.dll
+E:\CNPM\MEGATECH\bin\PagedList.dll
+E:\CNPM\MEGATECH\bin\PagedList.Mvc.dll
+E:\CNPM\MEGATECH\bin\System.Web.Helpers.dll
+E:\CNPM\MEGATECH\bin\System.Web.Mvc.dll
+E:\CNPM\MEGATECH\bin\System.Web.Optimization.dll
+E:\CNPM\MEGATECH\bin\System.Web.Razor.dll
+E:\CNPM\MEGATECH\bin\System.Web.WebPages.Deployment.dll
+E:\CNPM\MEGATECH\bin\System.Web.WebPages.dll
+E:\CNPM\MEGATECH\bin\System.Web.WebPages.Razor.dll
+E:\CNPM\MEGATECH\bin\WebGrease.dll
+E:\CNPM\MEGATECH\bin\Dapper.xml
+E:\CNPM\MEGATECH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CNPM\MEGATECH\bin\PagedList.xml
+E:\CNPM\MEGATECH\bin\PagedList.Mvc.xml
+E:\CNPM\MEGATECH\bin\System.Web.Helpers.xml
+E:\CNPM\MEGATECH\bin\System.Web.Mvc.xml
+E:\CNPM\MEGATECH\bin\System.Web.Razor.xml
+E:\CNPM\MEGATECH\bin\System.Web.WebPages.xml
+E:\CNPM\MEGATECH\bin\System.Web.WebPages.Deployment.xml
+E:\CNPM\MEGATECH\bin\System.Web.WebPages.Razor.xml
+E:\CNPM\MEGATECH\bin\System.Web.Optimization.xml
+E:\CNPM\MEGATECH\bin\Newtonsoft.Json.xml
+E:\CNPM\MEGATECH\bin\Antlr3.Runtime.pdb
+E:\CNPM\MEGATECH\bin\EntityFramework.xml
+E:\CNPM\MEGATECH\bin\EntityFramework.SqlServer.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNet.Identity.Core.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\CNPM\MEGATECH\bin\Microsoft.Owin.xml
+E:\CNPM\MEGATECH\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\CNPM\MEGATECH\bin\Microsoft.Owin.Security.xml
+E:\CNPM\MEGATECH\bin\Microsoft.Owin.Security.Facebook.xml
+E:\CNPM\MEGATECH\bin\Microsoft.Owin.Security.Cookies.xml
+E:\CNPM\MEGATECH\bin\Microsoft.Owin.Security.Google.xml
+E:\CNPM\MEGATECH\bin\Microsoft.Owin.Security.Twitter.xml
+E:\CNPM\MEGATECH\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\CNPM\MEGATECH\bin\Microsoft.Owin.Security.OAuth.xml
+E:\CNPM\MEGATECH\obj\Debug\MEGATECH.csproj.AssemblyReference.cache
+E:\CNPM\MEGATECH\obj\Debug\MEGATECH.csproj.CoreCompileInputs.cache
+E:\CNPM\MEGATECH\obj\Debug\MEGATECH.csproj.Up2Date
+E:\CNPM\MEGATECH\obj\Debug\MEGATECH.dll
+E:\CNPM\MEGATECH\obj\Debug\MEGATECH.pdb
+E:\CNPM\MEGATECH\bin\Microsoft.DiaSymReader.Native.x86.dll
+E:\CNPM\MEGATECH\bin\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Antiforgery.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Authentication.Core.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Authorization.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Cors.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.DataProtection.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Http.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.JsonPatch.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Localization.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Core.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Mvc.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Razor.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Razor.Language.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Routing.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.WebUtilities.dll
+E:\CNPM\MEGATECH\bin\Microsoft.CodeAnalysis.CSharp.dll
+E:\CNPM\MEGATECH\bin\Microsoft.CodeAnalysis.dll
+E:\CNPM\MEGATECH\bin\Microsoft.CodeAnalysis.Razor.dll
+E:\CNPM\MEGATECH\bin\Microsoft.DotNet.PlatformAbstractions.dll
+E:\CNPM\MEGATECH\bin\Microsoft.Extensions.Caching.Abstractions.dll
+E:\CNPM\MEGATECH\bin\Microsoft.Extensions.Caching.Memory.dll
+E:\CNPM\MEGATECH\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\CNPM\MEGATECH\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CNPM\MEGATECH\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\CNPM\MEGATECH\bin\Microsoft.Extensions.DependencyModel.dll
+E:\CNPM\MEGATECH\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\CNPM\MEGATECH\bin\Microsoft.Extensions.FileProviders.Composite.dll
+E:\CNPM\MEGATECH\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\CNPM\MEGATECH\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\CNPM\MEGATECH\bin\Microsoft.Extensions.Localization.Abstractions.dll
+E:\CNPM\MEGATECH\bin\Microsoft.Extensions.Localization.dll
+E:\CNPM\MEGATECH\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\CNPM\MEGATECH\bin\Microsoft.Extensions.ObjectPool.dll
+E:\CNPM\MEGATECH\bin\Microsoft.Extensions.Options.dll
+E:\CNPM\MEGATECH\bin\Microsoft.Extensions.Primitives.dll
+E:\CNPM\MEGATECH\bin\Microsoft.Extensions.WebEncoders.dll
+E:\CNPM\MEGATECH\bin\Microsoft.Net.Http.Headers.dll
+E:\CNPM\MEGATECH\bin\Microsoft.Win32.Registry.dll
+E:\CNPM\MEGATECH\bin\Newtonsoft.Json.Bson.dll
+E:\CNPM\MEGATECH\bin\System.Buffers.dll
+E:\CNPM\MEGATECH\bin\System.Collections.Immutable.dll
+E:\CNPM\MEGATECH\bin\System.ComponentModel.Annotations.dll
+E:\CNPM\MEGATECH\bin\System.Diagnostics.DiagnosticSource.dll
+E:\CNPM\MEGATECH\bin\System.Memory.dll
+E:\CNPM\MEGATECH\bin\System.Numerics.Vectors.dll
+E:\CNPM\MEGATECH\bin\System.Reflection.Metadata.dll
+E:\CNPM\MEGATECH\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\CNPM\MEGATECH\bin\System.Security.AccessControl.dll
+E:\CNPM\MEGATECH\bin\System.Security.Cryptography.Xml.dll
+E:\CNPM\MEGATECH\bin\System.Security.Permissions.dll
+E:\CNPM\MEGATECH\bin\System.Security.Principal.Windows.dll
+E:\CNPM\MEGATECH\bin\System.Text.Encoding.CodePages.dll
+E:\CNPM\MEGATECH\bin\System.Text.Encodings.Web.dll
+E:\CNPM\MEGATECH\bin\System.Threading.Tasks.Extensions.dll
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Antiforgery.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Authentication.Core.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Authorization.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Cors.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.DataProtection.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Http.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.JsonPatch.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Localization.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Mvc.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Core.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Mvc.RazorPages.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Razor.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Razor.Language.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Routing.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\CNPM\MEGATECH\bin\Microsoft.AspNetCore.WebUtilities.xml
+E:\CNPM\MEGATECH\bin\Microsoft.CodeAnalysis.pdb
+E:\CNPM\MEGATECH\bin\Microsoft.CodeAnalysis.xml
+E:\CNPM\MEGATECH\bin\Microsoft.CodeAnalysis.CSharp.pdb
+E:\CNPM\MEGATECH\bin\Microsoft.CodeAnalysis.CSharp.xml
+E:\CNPM\MEGATECH\bin\Microsoft.CodeAnalysis.Razor.xml
+E:\CNPM\MEGATECH\bin\Microsoft.Extensions.Caching.Abstractions.xml
+E:\CNPM\MEGATECH\bin\Microsoft.Extensions.Caching.Memory.xml
+E:\CNPM\MEGATECH\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\CNPM\MEGATECH\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\CNPM\MEGATECH\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\CNPM\MEGATECH\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\CNPM\MEGATECH\bin\Microsoft.Extensions.FileProviders.Composite.xml
+E:\CNPM\MEGATECH\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\CNPM\MEGATECH\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+E:\CNPM\MEGATECH\bin\Microsoft.Extensions.Localization.xml
+E:\CNPM\MEGATECH\bin\Microsoft.Extensions.Localization.Abstractions.xml
+E:\CNPM\MEGATECH\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\CNPM\MEGATECH\bin\Microsoft.Extensions.ObjectPool.xml
+E:\CNPM\MEGATECH\bin\Microsoft.Extensions.Options.xml
+E:\CNPM\MEGATECH\bin\Microsoft.Extensions.Primitives.xml
+E:\CNPM\MEGATECH\bin\Microsoft.Extensions.WebEncoders.xml
+E:\CNPM\MEGATECH\bin\Microsoft.Net.Http.Headers.xml
+E:\CNPM\MEGATECH\bin\Newtonsoft.Json.Bson.xml
+E:\CNPM\MEGATECH\bin\System.Buffers.xml
+E:\CNPM\MEGATECH\bin\System.Collections.Immutable.xml
+E:\CNPM\MEGATECH\bin\System.Diagnostics.DiagnosticSource.xml
+E:\CNPM\MEGATECH\bin\System.Memory.xml
+E:\CNPM\MEGATECH\bin\System.Numerics.Vectors.xml
+E:\CNPM\MEGATECH\bin\System.Reflection.Metadata.xml
+E:\CNPM\MEGATECH\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\CNPM\MEGATECH\bin\System.Text.Encodings.Web.xml
+E:\CNPM\MEGATECH\bin\System.Threading.Tasks.Extensions.xml
+E:\CNPM\MEGATECH\obj\Debug\MEGATECH.Migrations.Update123.resources
+E:\CNPM\MEGATECH\obj\Debug\MEGATECH.csproj.GenerateResource.cache
+E:\CNPM\MEGATECH\obj\Debug\MEGATECH.Migrations.addKhoaNgoai.resources
+E:\CNPM\MEGATECH\obj\Debug\MEGATECH.Migrations.dropKN_NV_CV.resources
+E:\CNPM\MEGATECH\obj\Debug\MEGATECH.Migrations.addKNNV_CV.resources
+E:\CNPM\MEGATECH\obj\Debug\MEGATECH.Migrations.ForeignKey123.resources
+E:\CNPM\MEGATECH\obj\Debug\MEGATECH.Migrations.UpdateTables.resources
+E:\CNPM\MEGATECH\obj\Debug\MEGATECH.Migrations.Table0339.resources
+E:\CNPM\MEGATECH\obj\Debug\MEGATECH.Migrations.PMH_CV.resources
+E:\CNPM\MEGATECH\obj\Debug\MEGATECH.Migrations.updatetables0750.resources
+E:\CNPM\MEGATECH\obj\Debug\MEGATECH.Migrations.AlterTableCommonAbstract.resources
+E:\CNPM\MEGATECH\obj\Debug\MEGATECH.Migrations.UpdateTitleAllTable.resources
+E:\CNPM\MEGATECH\obj\Debug\MEGATECH.Migrations.AlterCategory.resources
+E:\CNPM\MEGATECH\obj\Debug\MEGATECH.Migrations.somechangeinNhanVIen.resources
+E:\CNPM\MEGATECH\obj\Debug\MEGATECH.Migrations.UpdateGiamGia.resources
+E:\CNPM\MEGATECH\obj\Debug\MEGATECH.Migrations.AlterProduct.resources
+E:\CNPM\MEGATECH\obj\Debug\MEGATECH.Migrations.ALterProductNiemYet.resources
+E:\CNPM\MEGATECH\obj\Debug\MEGATECH.Migrations.UpdateHoaDonNe.resources
+E:\CNPM\MEGATECH\obj\Debug\MEGATECH.Migrations.CreateDBThongKe.resources
+E:\CNPM\MEGATECH\obj\Debug\MEGATECH.Migrations.DeleteTablePMH.resources
+E:\CNPM\MEGATECH\obj\Debug\MEGATECH.Migrations.UpdateHoaDon.resources
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.DiaSymReader.Native.x86.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\MEGATECH.dll.config
+E:\CongNghePhanMem2024\MEGATECH\bin\MEGATECH.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\MEGATECH.pdb
+E:\CongNghePhanMem2024\MEGATECH\bin\roslyn\csc.exe
+E:\CongNghePhanMem2024\MEGATECH\bin\roslyn\csc.exe.config
+E:\CongNghePhanMem2024\MEGATECH\bin\roslyn\csc.rsp
+E:\CongNghePhanMem2024\MEGATECH\bin\roslyn\csi.exe
+E:\CongNghePhanMem2024\MEGATECH\bin\roslyn\csi.exe.config
+E:\CongNghePhanMem2024\MEGATECH\bin\roslyn\csi.rsp
+E:\CongNghePhanMem2024\MEGATECH\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CongNghePhanMem2024\MEGATECH\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+E:\CongNghePhanMem2024\MEGATECH\bin\roslyn\Microsoft.Managed.Core.targets
+E:\CongNghePhanMem2024\MEGATECH\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CongNghePhanMem2024\MEGATECH\bin\roslyn\System.Buffers.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\roslyn\System.Collections.Immutable.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\roslyn\System.Memory.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\roslyn\System.Numerics.Vectors.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\roslyn\System.Reflection.Metadata.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\roslyn\vbc.exe
+E:\CongNghePhanMem2024\MEGATECH\bin\roslyn\vbc.exe.config
+E:\CongNghePhanMem2024\MEGATECH\bin\roslyn\vbc.rsp
+E:\CongNghePhanMem2024\MEGATECH\bin\roslyn\VBCSCompiler.exe
+E:\CongNghePhanMem2024\MEGATECH\bin\roslyn\VBCSCompiler.exe.config
+E:\CongNghePhanMem2024\MEGATECH\bin\Antlr3.Runtime.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Dapper.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\EntityFramework.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\EntityFramework.SqlServer.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNet.Identity.Core.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Antiforgery.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Authentication.Core.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Authorization.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Cors.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.DataProtection.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Http.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.JsonPatch.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Localization.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Core.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Mvc.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Razor.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Razor.Language.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Routing.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.WebUtilities.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.CodeAnalysis.CSharp.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.CodeAnalysis.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.CodeAnalysis.Razor.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.DotNet.PlatformAbstractions.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Extensions.Caching.Abstractions.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Extensions.Caching.Memory.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Extensions.DependencyModel.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Extensions.FileProviders.Composite.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Extensions.Localization.Abstractions.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Extensions.Localization.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Extensions.ObjectPool.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Extensions.Options.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Extensions.Primitives.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Extensions.WebEncoders.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Net.Http.Headers.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Owin.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Owin.Security.Cookies.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Owin.Security.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Owin.Security.Facebook.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Owin.Security.Google.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Owin.Security.OAuth.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Owin.Security.Twitter.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Web.Infrastructure.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Win32.Registry.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Newtonsoft.Json.Bson.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Newtonsoft.Json.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Owin.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\PagedList.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\PagedList.Mvc.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\System.Buffers.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\System.Collections.Immutable.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\System.ComponentModel.Annotations.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\System.Diagnostics.DiagnosticSource.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\System.Memory.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\System.Numerics.Vectors.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\System.Reflection.Metadata.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\System.Security.AccessControl.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\System.Security.Cryptography.Xml.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\System.Security.Permissions.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\System.Security.Principal.Windows.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\System.Text.Encoding.CodePages.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\System.Text.Encodings.Web.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\System.Threading.Tasks.Extensions.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\System.Web.Helpers.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\System.Web.Mvc.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\System.Web.Optimization.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\System.Web.Razor.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\System.Web.WebPages.Deployment.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\System.Web.WebPages.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\System.Web.WebPages.Razor.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\WebGrease.dll
+E:\CongNghePhanMem2024\MEGATECH\bin\Dapper.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Antiforgery.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Authentication.Core.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Authorization.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Cors.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.DataProtection.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Http.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.JsonPatch.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Localization.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Mvc.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Core.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Mvc.RazorPages.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Razor.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Razor.Language.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Routing.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNetCore.WebUtilities.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.CodeAnalysis.pdb
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.CodeAnalysis.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.CodeAnalysis.CSharp.pdb
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.CodeAnalysis.CSharp.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.CodeAnalysis.Razor.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Extensions.Caching.Abstractions.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Extensions.Caching.Memory.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Extensions.FileProviders.Composite.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Extensions.Localization.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Extensions.Localization.Abstractions.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Extensions.ObjectPool.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Extensions.Options.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Extensions.Primitives.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Extensions.WebEncoders.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Net.Http.Headers.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Newtonsoft.Json.Bson.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\PagedList.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\PagedList.Mvc.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\System.Buffers.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\System.Collections.Immutable.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\System.Diagnostics.DiagnosticSource.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\System.Memory.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\System.Numerics.Vectors.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\System.Reflection.Metadata.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\System.Text.Encodings.Web.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\System.Threading.Tasks.Extensions.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\System.Web.Helpers.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\System.Web.Mvc.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\System.Web.Razor.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\System.Web.WebPages.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\System.Web.WebPages.Deployment.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\System.Web.WebPages.Razor.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\System.Web.Optimization.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Newtonsoft.Json.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Antlr3.Runtime.pdb
+E:\CongNghePhanMem2024\MEGATECH\bin\EntityFramework.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\EntityFramework.SqlServer.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNet.Identity.Core.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Owin.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Owin.Security.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Owin.Security.Facebook.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Owin.Security.Cookies.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Owin.Security.Google.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Owin.Security.Twitter.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\CongNghePhanMem2024\MEGATECH\bin\Microsoft.Owin.Security.OAuth.xml
+E:\CongNghePhanMem2024\MEGATECH\obj\Debug\MEGATECH.csproj.AssemblyReference.cache
+E:\CongNghePhanMem2024\MEGATECH\obj\Debug\MEGATECH.Migrations.Update123.resources
+E:\CongNghePhanMem2024\MEGATECH\obj\Debug\MEGATECH.Migrations.addKhoaNgoai.resources
+E:\CongNghePhanMem2024\MEGATECH\obj\Debug\MEGATECH.Migrations.dropKN_NV_CV.resources
+E:\CongNghePhanMem2024\MEGATECH\obj\Debug\MEGATECH.Migrations.addKNNV_CV.resources
+E:\CongNghePhanMem2024\MEGATECH\obj\Debug\MEGATECH.Migrations.ForeignKey123.resources
+E:\CongNghePhanMem2024\MEGATECH\obj\Debug\MEGATECH.Migrations.UpdateTables.resources
+E:\CongNghePhanMem2024\MEGATECH\obj\Debug\MEGATECH.Migrations.Table0339.resources
+E:\CongNghePhanMem2024\MEGATECH\obj\Debug\MEGATECH.Migrations.PMH_CV.resources
+E:\CongNghePhanMem2024\MEGATECH\obj\Debug\MEGATECH.Migrations.updatetables0750.resources
+E:\CongNghePhanMem2024\MEGATECH\obj\Debug\MEGATECH.Migrations.AlterTableCommonAbstract.resources
+E:\CongNghePhanMem2024\MEGATECH\obj\Debug\MEGATECH.Migrations.UpdateTitleAllTable.resources
+E:\CongNghePhanMem2024\MEGATECH\obj\Debug\MEGATECH.Migrations.AlterCategory.resources
+E:\CongNghePhanMem2024\MEGATECH\obj\Debug\MEGATECH.Migrations.somechangeinNhanVIen.resources
+E:\CongNghePhanMem2024\MEGATECH\obj\Debug\MEGATECH.Migrations.UpdateGiamGia.resources
+E:\CongNghePhanMem2024\MEGATECH\obj\Debug\MEGATECH.Migrations.AlterProduct.resources
+E:\CongNghePhanMem2024\MEGATECH\obj\Debug\MEGATECH.Migrations.ALterProductNiemYet.resources
+E:\CongNghePhanMem2024\MEGATECH\obj\Debug\MEGATECH.Migrations.UpdateHoaDonNe.resources
+E:\CongNghePhanMem2024\MEGATECH\obj\Debug\MEGATECH.Migrations.CreateDBThongKe.resources
+E:\CongNghePhanMem2024\MEGATECH\obj\Debug\MEGATECH.Migrations.DeleteTablePMH.resources
+E:\CongNghePhanMem2024\MEGATECH\obj\Debug\MEGATECH.Migrations.UpdateHoaDon.resources
+E:\CongNghePhanMem2024\MEGATECH\obj\Debug\MEGATECH.csproj.GenerateResource.cache
+E:\CongNghePhanMem2024\MEGATECH\obj\Debug\MEGATECH.csproj.CoreCompileInputs.cache
+E:\CongNghePhanMem2024\MEGATECH\obj\Debug\MEGATECH.csproj.Up2Date
+E:\CongNghePhanMem2024\MEGATECH\obj\Debug\MEGATECH.dll
+E:\CongNghePhanMem2024\MEGATECH\obj\Debug\MEGATECH.pdb
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.DiaSymReader.Native.x86.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\MEGATECH.dll.config
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\MEGATECH.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\MEGATECH.pdb
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\roslyn\csc.exe
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\roslyn\csc.exe.config
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\roslyn\csc.rsp
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\roslyn\csi.exe
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\roslyn\csi.exe.config
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\roslyn\csi.rsp
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\roslyn\System.Buffers.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\roslyn\System.Collections.Immutable.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\roslyn\System.Memory.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\roslyn\System.Numerics.Vectors.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\roslyn\System.Reflection.Metadata.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\roslyn\vbc.exe
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\roslyn\vbc.exe.config
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\roslyn\vbc.rsp
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\roslyn\VBCSCompiler.exe
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\roslyn\VBCSCompiler.exe.config
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Antlr3.Runtime.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Dapper.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\EntityFramework.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\EntityFramework.SqlServer.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Antiforgery.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Authentication.Core.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Authorization.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Cors.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.DataProtection.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Http.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.JsonPatch.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Localization.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Core.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Mvc.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Razor.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Razor.Language.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Routing.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.WebUtilities.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.CodeAnalysis.CSharp.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.CodeAnalysis.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.CodeAnalysis.Razor.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Extensions.Caching.Memory.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Extensions.DependencyModel.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Extensions.FileProviders.Composite.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Extensions.Localization.Abstractions.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Extensions.Localization.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Extensions.ObjectPool.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Extensions.Options.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Extensions.Primitives.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Extensions.WebEncoders.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Net.Http.Headers.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Owin.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Owin.Security.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Owin.Security.Google.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Web.Infrastructure.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Win32.Registry.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Newtonsoft.Json.Bson.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Newtonsoft.Json.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Owin.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\PagedList.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\PagedList.Mvc.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\System.Buffers.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\System.Collections.Immutable.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\System.ComponentModel.Annotations.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\System.Memory.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\System.Numerics.Vectors.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\System.Reflection.Metadata.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\System.Security.AccessControl.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\System.Security.Cryptography.Xml.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\System.Security.Permissions.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\System.Security.Principal.Windows.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\System.Text.Encoding.CodePages.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\System.Text.Encodings.Web.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\System.Threading.Tasks.Extensions.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\System.Web.Helpers.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\System.Web.Mvc.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\System.Web.Optimization.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\System.Web.Razor.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\System.Web.WebPages.Deployment.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\System.Web.WebPages.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\System.Web.WebPages.Razor.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\WebGrease.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Dapper.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Antiforgery.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Authentication.Core.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Authorization.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Cors.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.DataProtection.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Http.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.JsonPatch.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Localization.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Mvc.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Core.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Mvc.RazorPages.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Razor.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Razor.Language.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Routing.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNetCore.WebUtilities.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.CodeAnalysis.pdb
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.CodeAnalysis.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.CodeAnalysis.CSharp.pdb
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.CodeAnalysis.CSharp.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.CodeAnalysis.Razor.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Extensions.Caching.Abstractions.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Extensions.Caching.Memory.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Extensions.FileProviders.Composite.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Extensions.Localization.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Extensions.Localization.Abstractions.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Extensions.ObjectPool.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Extensions.Options.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Extensions.Primitives.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Extensions.WebEncoders.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Net.Http.Headers.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Newtonsoft.Json.Bson.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\PagedList.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\PagedList.Mvc.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\System.Buffers.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\System.Collections.Immutable.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\System.Memory.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\System.Numerics.Vectors.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\System.Reflection.Metadata.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\System.Text.Encodings.Web.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\System.Threading.Tasks.Extensions.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\System.Web.Helpers.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\System.Web.Mvc.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\System.Web.Razor.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\System.Web.WebPages.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\System.Web.WebPages.Deployment.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\System.Web.WebPages.Razor.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\System.Web.Optimization.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Newtonsoft.Json.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Antlr3.Runtime.pdb
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\EntityFramework.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\EntityFramework.SqlServer.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Owin.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Owin.Security.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Owin.Security.Google.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\obj\Debug\MEGATECH.csproj.AssemblyReference.cache
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\obj\Debug\MEGATECH.Migrations.Update123.resources
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\obj\Debug\MEGATECH.Migrations.addKhoaNgoai.resources
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\obj\Debug\MEGATECH.Migrations.dropKN_NV_CV.resources
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\obj\Debug\MEGATECH.Migrations.addKNNV_CV.resources
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\obj\Debug\MEGATECH.Migrations.ForeignKey123.resources
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\obj\Debug\MEGATECH.Migrations.UpdateTables.resources
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\obj\Debug\MEGATECH.Migrations.Table0339.resources
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\obj\Debug\MEGATECH.Migrations.PMH_CV.resources
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\obj\Debug\MEGATECH.Migrations.updatetables0750.resources
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\obj\Debug\MEGATECH.Migrations.AlterTableCommonAbstract.resources
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\obj\Debug\MEGATECH.Migrations.UpdateTitleAllTable.resources
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\obj\Debug\MEGATECH.Migrations.AlterCategory.resources
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\obj\Debug\MEGATECH.Migrations.somechangeinNhanVIen.resources
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\obj\Debug\MEGATECH.Migrations.UpdateGiamGia.resources
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\obj\Debug\MEGATECH.Migrations.AlterProduct.resources
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\obj\Debug\MEGATECH.Migrations.ALterProductNiemYet.resources
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\obj\Debug\MEGATECH.Migrations.UpdateHoaDonNe.resources
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\obj\Debug\MEGATECH.Migrations.CreateDBThongKe.resources
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\obj\Debug\MEGATECH.Migrations.DeleteTablePMH.resources
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\obj\Debug\MEGATECH.Migrations.UpdateHoaDon.resources
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\obj\Debug\MEGATECH.csproj.GenerateResource.cache
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\obj\Debug\MEGATECH.csproj.CoreCompileInputs.cache
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\obj\Debug\MEGATECH.csproj.Up2Date
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\obj\Debug\MEGATECH.dll
+E:\Lập Trình DotNet\SourceCode_Asp2024\WebBanDoCongNghe\MEGATECH\obj\Debug\MEGATECH.pdb
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.DiaSymReader.Native.x86.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CNPM_ASP\MEGATECH\bin\MEGATECH.dll.config
+E:\CNPM_ASP\MEGATECH\bin\MEGATECH.dll
+E:\CNPM_ASP\MEGATECH\bin\MEGATECH.pdb
+E:\CNPM_ASP\MEGATECH\bin\roslyn\csc.exe
+E:\CNPM_ASP\MEGATECH\bin\roslyn\csc.exe.config
+E:\CNPM_ASP\MEGATECH\bin\roslyn\csc.rsp
+E:\CNPM_ASP\MEGATECH\bin\roslyn\csi.exe
+E:\CNPM_ASP\MEGATECH\bin\roslyn\csi.exe.config
+E:\CNPM_ASP\MEGATECH\bin\roslyn\csi.rsp
+E:\CNPM_ASP\MEGATECH\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CNPM_ASP\MEGATECH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CNPM_ASP\MEGATECH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CNPM_ASP\MEGATECH\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CNPM_ASP\MEGATECH\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CNPM_ASP\MEGATECH\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CNPM_ASP\MEGATECH\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CNPM_ASP\MEGATECH\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CNPM_ASP\MEGATECH\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CNPM_ASP\MEGATECH\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+E:\CNPM_ASP\MEGATECH\bin\roslyn\Microsoft.Managed.Core.targets
+E:\CNPM_ASP\MEGATECH\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CNPM_ASP\MEGATECH\bin\roslyn\System.Buffers.dll
+E:\CNPM_ASP\MEGATECH\bin\roslyn\System.Collections.Immutable.dll
+E:\CNPM_ASP\MEGATECH\bin\roslyn\System.Memory.dll
+E:\CNPM_ASP\MEGATECH\bin\roslyn\System.Numerics.Vectors.dll
+E:\CNPM_ASP\MEGATECH\bin\roslyn\System.Reflection.Metadata.dll
+E:\CNPM_ASP\MEGATECH\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\CNPM_ASP\MEGATECH\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\CNPM_ASP\MEGATECH\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\CNPM_ASP\MEGATECH\bin\roslyn\vbc.exe
+E:\CNPM_ASP\MEGATECH\bin\roslyn\vbc.exe.config
+E:\CNPM_ASP\MEGATECH\bin\roslyn\vbc.rsp
+E:\CNPM_ASP\MEGATECH\bin\roslyn\VBCSCompiler.exe
+E:\CNPM_ASP\MEGATECH\bin\roslyn\VBCSCompiler.exe.config
+E:\CNPM_ASP\MEGATECH\bin\Antlr3.Runtime.dll
+E:\CNPM_ASP\MEGATECH\bin\Dapper.dll
+E:\CNPM_ASP\MEGATECH\bin\EntityFramework.dll
+E:\CNPM_ASP\MEGATECH\bin\EntityFramework.SqlServer.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNet.Identity.Core.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Antiforgery.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Authentication.Core.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Authorization.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Cors.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.DataProtection.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Http.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.JsonPatch.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Localization.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Core.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Mvc.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Razor.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Razor.Language.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Routing.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.WebUtilities.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.CodeAnalysis.CSharp.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.CodeAnalysis.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.CodeAnalysis.Razor.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.DotNet.PlatformAbstractions.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Extensions.Caching.Abstractions.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Extensions.Caching.Memory.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Extensions.DependencyModel.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Extensions.FileProviders.Composite.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Extensions.Localization.Abstractions.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Extensions.Localization.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Extensions.ObjectPool.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Extensions.Options.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Extensions.Primitives.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Extensions.WebEncoders.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Net.Http.Headers.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Owin.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Owin.Security.Cookies.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Owin.Security.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Owin.Security.Facebook.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Owin.Security.Google.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Owin.Security.OAuth.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Owin.Security.Twitter.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Web.Infrastructure.dll
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Win32.Registry.dll
+E:\CNPM_ASP\MEGATECH\bin\Newtonsoft.Json.Bson.dll
+E:\CNPM_ASP\MEGATECH\bin\Newtonsoft.Json.dll
+E:\CNPM_ASP\MEGATECH\bin\Owin.dll
+E:\CNPM_ASP\MEGATECH\bin\PagedList.dll
+E:\CNPM_ASP\MEGATECH\bin\PagedList.Mvc.dll
+E:\CNPM_ASP\MEGATECH\bin\System.Buffers.dll
+E:\CNPM_ASP\MEGATECH\bin\System.Collections.Immutable.dll
+E:\CNPM_ASP\MEGATECH\bin\System.ComponentModel.Annotations.dll
+E:\CNPM_ASP\MEGATECH\bin\System.Diagnostics.DiagnosticSource.dll
+E:\CNPM_ASP\MEGATECH\bin\System.Memory.dll
+E:\CNPM_ASP\MEGATECH\bin\System.Numerics.Vectors.dll
+E:\CNPM_ASP\MEGATECH\bin\System.Reflection.Metadata.dll
+E:\CNPM_ASP\MEGATECH\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\CNPM_ASP\MEGATECH\bin\System.Security.AccessControl.dll
+E:\CNPM_ASP\MEGATECH\bin\System.Security.Cryptography.Xml.dll
+E:\CNPM_ASP\MEGATECH\bin\System.Security.Permissions.dll
+E:\CNPM_ASP\MEGATECH\bin\System.Security.Principal.Windows.dll
+E:\CNPM_ASP\MEGATECH\bin\System.Text.Encoding.CodePages.dll
+E:\CNPM_ASP\MEGATECH\bin\System.Text.Encodings.Web.dll
+E:\CNPM_ASP\MEGATECH\bin\System.Threading.Tasks.Extensions.dll
+E:\CNPM_ASP\MEGATECH\bin\System.Web.Helpers.dll
+E:\CNPM_ASP\MEGATECH\bin\System.Web.Mvc.dll
+E:\CNPM_ASP\MEGATECH\bin\System.Web.Optimization.dll
+E:\CNPM_ASP\MEGATECH\bin\System.Web.Razor.dll
+E:\CNPM_ASP\MEGATECH\bin\System.Web.WebPages.Deployment.dll
+E:\CNPM_ASP\MEGATECH\bin\System.Web.WebPages.dll
+E:\CNPM_ASP\MEGATECH\bin\System.Web.WebPages.Razor.dll
+E:\CNPM_ASP\MEGATECH\bin\WebGrease.dll
+E:\CNPM_ASP\MEGATECH\bin\Dapper.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Antiforgery.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Authentication.Core.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Authorization.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Cors.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.DataProtection.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Http.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.JsonPatch.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Localization.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Mvc.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Core.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Mvc.RazorPages.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Razor.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Razor.Language.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Routing.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNetCore.WebUtilities.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.CodeAnalysis.pdb
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.CodeAnalysis.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.CodeAnalysis.CSharp.pdb
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.CodeAnalysis.CSharp.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.CodeAnalysis.Razor.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Extensions.Caching.Abstractions.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Extensions.Caching.Memory.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Extensions.FileProviders.Composite.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Extensions.Localization.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Extensions.Localization.Abstractions.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Extensions.ObjectPool.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Extensions.Options.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Extensions.Primitives.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Extensions.WebEncoders.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Net.Http.Headers.xml
+E:\CNPM_ASP\MEGATECH\bin\Newtonsoft.Json.Bson.xml
+E:\CNPM_ASP\MEGATECH\bin\PagedList.xml
+E:\CNPM_ASP\MEGATECH\bin\PagedList.Mvc.xml
+E:\CNPM_ASP\MEGATECH\bin\System.Buffers.xml
+E:\CNPM_ASP\MEGATECH\bin\System.Collections.Immutable.xml
+E:\CNPM_ASP\MEGATECH\bin\System.Diagnostics.DiagnosticSource.xml
+E:\CNPM_ASP\MEGATECH\bin\System.Memory.xml
+E:\CNPM_ASP\MEGATECH\bin\System.Numerics.Vectors.xml
+E:\CNPM_ASP\MEGATECH\bin\System.Reflection.Metadata.xml
+E:\CNPM_ASP\MEGATECH\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\CNPM_ASP\MEGATECH\bin\System.Text.Encodings.Web.xml
+E:\CNPM_ASP\MEGATECH\bin\System.Threading.Tasks.Extensions.xml
+E:\CNPM_ASP\MEGATECH\bin\System.Web.Helpers.xml
+E:\CNPM_ASP\MEGATECH\bin\System.Web.Mvc.xml
+E:\CNPM_ASP\MEGATECH\bin\System.Web.Razor.xml
+E:\CNPM_ASP\MEGATECH\bin\System.Web.WebPages.xml
+E:\CNPM_ASP\MEGATECH\bin\System.Web.WebPages.Deployment.xml
+E:\CNPM_ASP\MEGATECH\bin\System.Web.WebPages.Razor.xml
+E:\CNPM_ASP\MEGATECH\bin\System.Web.Optimization.xml
+E:\CNPM_ASP\MEGATECH\bin\Newtonsoft.Json.xml
+E:\CNPM_ASP\MEGATECH\bin\Antlr3.Runtime.pdb
+E:\CNPM_ASP\MEGATECH\bin\EntityFramework.xml
+E:\CNPM_ASP\MEGATECH\bin\EntityFramework.SqlServer.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNet.Identity.Core.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Owin.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Owin.Security.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Owin.Security.Facebook.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Owin.Security.Cookies.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Owin.Security.Google.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Owin.Security.Twitter.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\CNPM_ASP\MEGATECH\bin\Microsoft.Owin.Security.OAuth.xml
+E:\CNPM_ASP\MEGATECH\obj\Debug\MEGATECH.csproj.AssemblyReference.cache
+E:\CNPM_ASP\MEGATECH\obj\Debug\MEGATECH.Migrations.Update123.resources
+E:\CNPM_ASP\MEGATECH\obj\Debug\MEGATECH.Migrations.addKhoaNgoai.resources
+E:\CNPM_ASP\MEGATECH\obj\Debug\MEGATECH.Migrations.dropKN_NV_CV.resources
+E:\CNPM_ASP\MEGATECH\obj\Debug\MEGATECH.Migrations.addKNNV_CV.resources
+E:\CNPM_ASP\MEGATECH\obj\Debug\MEGATECH.Migrations.ForeignKey123.resources
+E:\CNPM_ASP\MEGATECH\obj\Debug\MEGATECH.Migrations.UpdateTables.resources
+E:\CNPM_ASP\MEGATECH\obj\Debug\MEGATECH.Migrations.Table0339.resources
+E:\CNPM_ASP\MEGATECH\obj\Debug\MEGATECH.Migrations.PMH_CV.resources
+E:\CNPM_ASP\MEGATECH\obj\Debug\MEGATECH.Migrations.updatetables0750.resources
+E:\CNPM_ASP\MEGATECH\obj\Debug\MEGATECH.Migrations.AlterTableCommonAbstract.resources
+E:\CNPM_ASP\MEGATECH\obj\Debug\MEGATECH.Migrations.UpdateTitleAllTable.resources
+E:\CNPM_ASP\MEGATECH\obj\Debug\MEGATECH.Migrations.AlterCategory.resources
+E:\CNPM_ASP\MEGATECH\obj\Debug\MEGATECH.Migrations.somechangeinNhanVIen.resources
+E:\CNPM_ASP\MEGATECH\obj\Debug\MEGATECH.Migrations.UpdateGiamGia.resources
+E:\CNPM_ASP\MEGATECH\obj\Debug\MEGATECH.Migrations.AlterProduct.resources
+E:\CNPM_ASP\MEGATECH\obj\Debug\MEGATECH.Migrations.ALterProductNiemYet.resources
+E:\CNPM_ASP\MEGATECH\obj\Debug\MEGATECH.Migrations.UpdateHoaDonNe.resources
+E:\CNPM_ASP\MEGATECH\obj\Debug\MEGATECH.Migrations.CreateDBThongKe.resources
+E:\CNPM_ASP\MEGATECH\obj\Debug\MEGATECH.Migrations.DeleteTablePMH.resources
+E:\CNPM_ASP\MEGATECH\obj\Debug\MEGATECH.Migrations.UpdateHoaDon.resources
+E:\CNPM_ASP\MEGATECH\obj\Debug\MEGATECH.csproj.GenerateResource.cache
+E:\CNPM_ASP\MEGATECH\obj\Debug\MEGATECH.csproj.CoreCompileInputs.cache
+E:\CNPM_ASP\MEGATECH\obj\Debug\MEGATECH.csproj.Up2Date
+E:\CNPM_ASP\MEGATECH\obj\Debug\MEGATECH.dll
+E:\CNPM_ASP\MEGATECH\obj\Debug\MEGATECH.pdb
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\MEGATECH.dll.config
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\MEGATECH.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\MEGATECH.pdb
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\roslyn\csc.exe
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\roslyn\csc.exe.config
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\roslyn\csc.rsp
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\roslyn\csi.exe
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\roslyn\csi.exe.config
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\roslyn\csi.rsp
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\roslyn\System.Buffers.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\roslyn\System.Memory.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\roslyn\vbc.exe
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\roslyn\vbc.exe.config
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\roslyn\vbc.rsp
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\roslyn\VBCSCompiler.exe
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Antlr3.Runtime.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Dapper.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\EntityFramework.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\EntityFramework.SqlServer.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Localization.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Mvc.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Razor.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.CodeAnalysis.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Extensions.Localization.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Extensions.Options.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Owin.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Owin.Security.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Win32.Registry.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Newtonsoft.Json.Bson.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Newtonsoft.Json.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Owin.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\PagedList.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\PagedList.Mvc.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\System.Buffers.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\System.Collections.Immutable.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\System.ComponentModel.Annotations.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\System.Memory.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\System.Numerics.Vectors.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\System.Reflection.Metadata.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\System.Security.AccessControl.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\System.Security.Cryptography.Xml.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\System.Security.Permissions.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\System.Security.Principal.Windows.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\System.Text.Encoding.CodePages.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\System.Text.Encodings.Web.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\System.Web.Helpers.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\System.Web.Mvc.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\System.Web.Optimization.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\System.Web.Razor.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\System.Web.WebPages.Deployment.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\System.Web.WebPages.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\System.Web.WebPages.Razor.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\WebGrease.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Dapper.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Localization.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Mvc.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Mvc.RazorPages.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Razor.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Razor.Language.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.CodeAnalysis.pdb
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.CodeAnalysis.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.CodeAnalysis.Razor.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Extensions.FileProviders.Composite.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Extensions.Localization.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Extensions.Options.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Newtonsoft.Json.Bson.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\PagedList.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\PagedList.Mvc.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\System.Buffers.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\System.Collections.Immutable.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\System.Memory.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\System.Numerics.Vectors.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\System.Reflection.Metadata.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\System.Text.Encodings.Web.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\System.Web.Helpers.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\System.Web.Mvc.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\System.Web.Razor.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\System.Web.WebPages.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\System.Web.WebPages.Deployment.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\System.Web.WebPages.Razor.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\System.Web.Optimization.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Newtonsoft.Json.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Antlr3.Runtime.pdb
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\EntityFramework.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\EntityFramework.SqlServer.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Owin.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Owin.Security.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\obj\Debug\MEGATECH.csproj.AssemblyReference.cache
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\obj\Debug\MEGATECH.Migrations.Update123.resources
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\obj\Debug\MEGATECH.Migrations.addKhoaNgoai.resources
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\obj\Debug\MEGATECH.Migrations.dropKN_NV_CV.resources
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\obj\Debug\MEGATECH.Migrations.addKNNV_CV.resources
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\obj\Debug\MEGATECH.Migrations.ForeignKey123.resources
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\obj\Debug\MEGATECH.Migrations.UpdateTables.resources
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\obj\Debug\MEGATECH.Migrations.Table0339.resources
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\obj\Debug\MEGATECH.Migrations.PMH_CV.resources
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\obj\Debug\MEGATECH.Migrations.updatetables0750.resources
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\obj\Debug\MEGATECH.Migrations.AlterTableCommonAbstract.resources
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\obj\Debug\MEGATECH.Migrations.UpdateTitleAllTable.resources
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\obj\Debug\MEGATECH.Migrations.AlterCategory.resources
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\obj\Debug\MEGATECH.Migrations.somechangeinNhanVIen.resources
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\obj\Debug\MEGATECH.Migrations.UpdateGiamGia.resources
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\obj\Debug\MEGATECH.Migrations.AlterProduct.resources
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\obj\Debug\MEGATECH.Migrations.ALterProductNiemYet.resources
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\obj\Debug\MEGATECH.Migrations.UpdateHoaDonNe.resources
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\obj\Debug\MEGATECH.Migrations.CreateDBThongKe.resources
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\obj\Debug\MEGATECH.Migrations.DeleteTablePMH.resources
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\obj\Debug\MEGATECH.Migrations.UpdateHoaDon.resources
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\obj\Debug\MEGATECH.csproj.GenerateResource.cache
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\obj\Debug\MEGATECH.csproj.CoreCompileInputs.cache
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\obj\Debug\MEGATECH.csproj.Up2Date
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\obj\Debug\MEGATECH.dll
+C:\Users\FPT\Desktop\LTJAVA\test\MEGATECH\obj\Debug\MEGATECH.pdb
