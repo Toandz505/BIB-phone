@@ -1,49 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\hi\\BIB-phone\\MEGATECH\\",
+  "WorkspaceRootPath": "E:\\he\\BIB-phone\\MEGATECH\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|E:\\hi\\BIB-phone\\MEGATECH\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|e:\\he\\bib-phone\\megatech\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|solutionrelative:areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|e:\\he\\bib-phone\\megatech\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|e:\\hi\\bib-phone\\megatech\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|E:\\he\\BIB-phone\\MEGATECH\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|E:\\hi\\BIB-phone\\MEGATECH\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|E:\\he\\BIB-phone\\MEGATECH\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|E:\\hi\\BIB-phone\\MEGATECH\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|E:\\he\\BIB-phone\\MEGATECH\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|solutionrelative:views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|E:\\hi\\BIB-phone\\MEGATECH\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|E:\\he\\BIB-phone\\MEGATECH\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|E:\\hi\\BIB-phone\\MEGATECH\\areas\\admin\\views\\shared\\_layoutlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|E:\\he\\BIB-phone\\MEGATECH\\areas\\admin\\views\\shared\\_layoutlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|solutionrelative:areas\\admin\\views\\shared\\_layoutlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|E:\\hi\\BIB-phone\\MEGATECH\\areas\\admin\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|E:\\he\\BIB-phone\\MEGATECH\\areas\\admin\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|solutionrelative:areas\\admin\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|E:\\hi\\BIB-phone\\MEGATECH\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|E:\\he\\BIB-phone\\MEGATECH\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|solutionrelative:areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|E:\\hi\\BIB-phone\\MEGATECH\\views\\menu\\_menuarrivals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|E:\\he\\BIB-phone\\MEGATECH\\views\\menu\\_menuarrivals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|solutionrelative:views\\menu\\_menuarrivals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|E:\\hi\\BIB-phone\\MEGATECH\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|E:\\he\\BIB-phone\\MEGATECH\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|E:\\hi\\BIB-phone\\MEGATECH\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|E:\\he\\BIB-phone\\MEGATECH\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -54,15 +58,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\he\\BIB-phone\\MEGATECH\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ToolTip": "E:\\he\\BIB-phone\\MEGATECH\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T02:58:20.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "_LayoutLogin.cshtml",
-              "DocumentMoniker": "E:\\hi\\BIB-phone\\MEGATECH\\Areas\\Admin\\Views\\Shared\\_LayoutLogin.cshtml",
+              "DocumentMoniker": "E:\\he\\BIB-phone\\MEGATECH\\Areas\\Admin\\Views\\Shared\\_LayoutLogin.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_LayoutLogin.cshtml",
-              "ToolTip": "E:\\hi\\BIB-phone\\MEGATECH\\Areas\\Admin\\Views\\Shared\\_LayoutLogin.cshtml",
+              "ToolTip": "E:\\he\\BIB-phone\\MEGATECH\\Areas\\Admin\\Views\\Shared\\_LayoutLogin.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_LayoutLogin.cshtml",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAABMAAAB7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -70,11 +87,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "E:\\hi\\BIB-phone\\MEGATECH\\Areas\\Admin\\Views\\Home\\Login.cshtml",
+              "DocumentMoniker": "E:\\he\\BIB-phone\\MEGATECH\\Areas\\Admin\\Views\\Home\\Login.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Home\\Login.cshtml",
-              "ToolTip": "E:\\hi\\BIB-phone\\MEGATECH\\Areas\\Admin\\Views\\Home\\Login.cshtml",
+              "ToolTip": "E:\\he\\BIB-phone\\MEGATECH\\Areas\\Admin\\Views\\Home\\Login.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\Home\\Login.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -82,11 +99,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\hi\\BIB-phone\\MEGATECH\\Views\\Contact\\Index.cshtml",
+              "DocumentMoniker": "E:\\he\\BIB-phone\\MEGATECH\\Views\\Contact\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Contact\\Index.cshtml",
-              "ToolTip": "E:\\hi\\BIB-phone\\MEGATECH\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "E:\\he\\BIB-phone\\MEGATECH\\Views\\Contact\\Index.cshtml",
               "RelativeToolTip": "Views\\Contact\\Index.cshtml",
               "ViewState": "AgIAADMAAAAAAAAAAAAAADMAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -94,11 +111,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\hi\\BIB-phone\\MEGATECH\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "E:\\he\\BIB-phone\\MEGATECH\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\hi\\BIB-phone\\MEGATECH\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\he\\BIB-phone\\MEGATECH\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -106,24 +123,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\hi\\BIB-phone\\MEGATECH\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "E:\\he\\BIB-phone\\MEGATECH\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "E:\\hi\\BIB-phone\\MEGATECH\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\he\\BIB-phone\\MEGATECH\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T07:51:13.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T07:51:13.074Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\hi\\BIB-phone\\MEGATECH\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "E:\\he\\BIB-phone\\MEGATECH\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\hi\\BIB-phone\\MEGATECH\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\he\\BIB-phone\\MEGATECH\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -132,11 +148,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "E:\\hi\\BIB-phone\\MEGATECH\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\he\\BIB-phone\\MEGATECH\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "E:\\hi\\BIB-phone\\MEGATECH\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\he\\BIB-phone\\MEGATECH\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -144,11 +160,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\hi\\BIB-phone\\MEGATECH\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "E:\\he\\BIB-phone\\MEGATECH\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\hi\\BIB-phone\\MEGATECH\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\he\\BIB-phone\\MEGATECH\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAADMAAAAAAAAAAAAAAEsAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -156,11 +172,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\hi\\BIB-phone\\MEGATECH\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "E:\\he\\BIB-phone\\MEGATECH\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\hi\\BIB-phone\\MEGATECH\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\he\\BIB-phone\\MEGATECH\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAABwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -168,11 +184,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "_MenuArrivals.cshtml",
-              "DocumentMoniker": "E:\\hi\\BIB-phone\\MEGATECH\\Views\\Menu\\_MenuArrivals.cshtml",
+              "DocumentMoniker": "E:\\he\\BIB-phone\\MEGATECH\\Views\\Menu\\_MenuArrivals.cshtml",
               "RelativeDocumentMoniker": "Views\\Menu\\_MenuArrivals.cshtml",
-              "ToolTip": "E:\\hi\\BIB-phone\\MEGATECH\\Views\\Menu\\_MenuArrivals.cshtml",
+              "ToolTip": "E:\\he\\BIB-phone\\MEGATECH\\Views\\Menu\\_MenuArrivals.cshtml",
               "RelativeToolTip": "Views\\Menu\\_MenuArrivals.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -180,11 +196,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Web.config",
-              "DocumentMoniker": "E:\\hi\\BIB-phone\\MEGATECH\\Web.config",
+              "DocumentMoniker": "E:\\he\\BIB-phone\\MEGATECH\\Web.config",
               "RelativeDocumentMoniker": "Web.config",
-              "ToolTip": "E:\\hi\\BIB-phone\\MEGATECH\\Web.config",
+              "ToolTip": "E:\\he\\BIB-phone\\MEGATECH\\Web.config",
               "RelativeToolTip": "Web.config",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2024-10-12T09:19:17.072Z",
